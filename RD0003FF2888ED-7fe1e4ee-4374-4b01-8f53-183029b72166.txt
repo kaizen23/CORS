@@ -1,0 +1,1 @@
+2017-08-22T17:57:08  Startup Request, url: /api/vfs/site/wwwroot/?_=1503424409406, method: GET, type: request, pid: 7072,2,6, ScmType: LocalGit, SCM_SKIP_SSL_VALIDATION: 0
